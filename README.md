@@ -3,7 +3,7 @@ Descrição
 Este repositório utiliza o framework NestJS com TypeScript para construir uma aplicação backend escalável e eficiente. O Prisma é utilizado como ORM (Object-Relational Mapping) para facilitar a interação com o banco de dados. Ele proporciona uma forma simples e intuitiva de trabalhar com o banco de dados, criando e gerenciando tabelas e registros de forma rápida e segura.
 
 
-#Configuração do Projeto
+# Configuração do Projeto
 Primeiramente instalar as dependências
 <br>
 Para instalar as dependências necessárias, execute:
